@@ -1,0 +1,9 @@
+NAMESPACE_POSTFIX=_ns.sh
+interfaces=(opt11 opt12 opt21 opt22 opt31 opt32 opt41 opt42 lan1 lan2 eth2 eth3 eth4 eth5)
+#interfaces=(opt21 opt22)
+#interfaces=(opt11 opt12)
+
+TEST_PARAMS_ITERATIONS=100	# * 13 seconds
+
+WINDOW_WIDTH = 50
+RIGHT_WINDOW_OFFSET_X = 500
